@@ -1,0 +1,18 @@
+Tarea Introduccion a Javascript
+
+Que es Variable?
+Una variable nos permite almacenar todo tipo de informacion o Dato para usarlo mas tarde.
+
+Que es Strings?
+Un String es no de los 3 tipos de Datos que maneja Js, que es un bloque de Texto que se define entre comillas.
+
+Que son Funciones (argumento, Return)?
+Las funciones son objetos invocables que utilizamos para modificar, cambiar o mas a las variables.
+Argumento es la variable o variables a ser usada y/o modificada en la funcion.
+Declaración return: utilizamos esta declaracion cuando queremos que la funcion nos devuelva algo especifico. Detiene automaticamente lo que esta haciendo y nos devulve el resultado.
+
+Declaraciones If.
+Declaración if: es un operador de control de flujo que nos permite verificar si algo true o false.
+
+Valores Booleanos.
+Bolean: creados a partir de la lógica de Boole significa que un dato puede adquirir dos estados: true o false.
