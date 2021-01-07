@@ -1,0 +1,4 @@
+Tarea JavaScript III
+
+Que son Arrays?
+Son listas de elementos ordenados uno al lado del otro. Puede contener string, numeros, booleanos, funciones e incluso mismos arrays.
