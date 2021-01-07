@@ -1,0 +1,9 @@
+Tarea JavaScript II
+
+For: es un bucle similar al IF pero mas complejo, se usa para evaluar expreciones por un determinado numero de veces
+
+&&: es un operador logico Y. Se encarga de evaluar ambas expresiones y devolvera verdadero solo si las dos expresiones son true. Si alguna no lo es devolvera false.
+
+||: es un operador logico O. Se encarga de determinar si una o ambas expresiones son verdadera, en ese caso devuelve true. Solo devolvera false si ambas son falsas
+
+!: el operador logico NO. Devolvera el valor booleano opuesto de lo que se le pasa.
