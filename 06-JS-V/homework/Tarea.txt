@@ -1,0 +1,7 @@
+Tarea JavaScript V
+
+Que es 'prototype`?
+Mediante esta palabra le agregamos una funcion anonima a una clase. Al hacerlo todos los objetos que hayan sido creados a partir de esta clase contendran esta funcion.
+
+Que es _Constructors_ ?
+Un constructor o "class" nos permite crear muchos objetos que comparten algunas de las mismas propiedades y métodos.
