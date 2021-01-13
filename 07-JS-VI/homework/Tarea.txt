@@ -1,0 +1,4 @@
+Tarea JavaScript VI
+
+Que es Callbacks?
+Es una funcion que se hace pasar como argumento de otra funcion.
